@@ -43,11 +43,6 @@ h3 {
   font-weight: 700;
 }
 
-h4 {
-  font-size: 16px;
-  font-weight: 700;
-}
-
 a {
   color: #35377b;
 }
@@ -145,7 +140,7 @@ button:focus,
 .profile {
   max-width: 700px;
   margin: 0 auto;
-  padding-top: 70px;
+  padding-top: 50px;
 }
 
 .page-footer {
